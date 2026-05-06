@@ -1,11 +1,11 @@
 ---
 name: qimao-publish-chapters
-description: Publish local novel chapters to the Qimao author backend one chapter at a time. Use when the user asks to upload, publish, or continue publishing Markdown/TXT chapter files to 七猫小说网/七猫作者后台 for a Qimao book ID, with per-chapter form filling, final confirmation, important-reminder acknowledgement, and stop-on-mismatch safeguards.
+description: 将本地 Markdown/TXT 小说章节逐章发布到七猫小说网作者后台。适用于用户要求上传、发布或继续发布七猫章节时，按书号、书名、章节范围逐章填写正文，确认发布，处理重要提醒弹窗，并在章节号不匹配时立即停止。
 ---
 
-# Qimao Publish Chapters
+# 七猫章节发布
 
-Use this skill to publish local novel chapters to 七猫小说网作者后台 safely and repeatably.
+使用这个 skill，可以把本地小说章节安全、可重复地发布到七猫小说网作者后台。
 
 ## Rules
 

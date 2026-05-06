@@ -1,4 +1,4 @@
 interface:
-  display_name: "Qimao Publish Chapters"
-  short_description: "Publish local novel chapters to Qimao author backend."
-  default_prompt: "Publish selected local chapters to a Qimao book, one chapter at a time."
+  display_name: "七猫章节发布"
+  short_description: "将本地小说章节逐章发布到七猫作者后台。"
+  default_prompt: "把指定的本地章节逐章发布到七猫小说网。"
