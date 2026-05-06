@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qimao Publish Chapters"
+  short_description: "Publish local novel chapters to Qimao author backend."
+  default_prompt: "Publish selected local chapters to a Qimao book, one chapter at a time."

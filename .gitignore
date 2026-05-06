@@ -1,0 +1,9 @@
+.qimao_publish_profile/
+.qimao_publish_screenshots/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
